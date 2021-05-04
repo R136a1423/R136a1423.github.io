@@ -1,0 +1,48 @@
+I"S<h1 id="这是一个一级标题">这是一个一级标题</h1>
+<hr />
+<h2 id="这是一个二级标题">这是一个二级标题</h2>
+<hr />
+
+<p><strong>在这里我会展示一些关于我的东西</strong><br />
+<del>这是一个带有删除线的文本</del><br />
+<u>这是一个带有下划线的文本</u><br />
+这是一个脚注[^cainiao]</p>
+
+<ul>
+  <li>无序列表1
+    <ol>
+      <li>有序列表1</li>
+      <li>有序列表2</li>
+      <li>有序列表3</li>
+    </ol>
+  </li>
+  <li>无序列表2</li>
+  <li>无序列表3</li>
+</ul>
+
+<blockquote>
+  <p>这是一个大区块</p>
+  <blockquote>
+    <p>包含的一个小区块</p>
+  </blockquote>
+</blockquote>
+
+<p>‘printf(“这使用起来并不麻烦”);’<br />
+必要的时候我们可以直接<a href="https://www.baidu.com/">baidu</a></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">作者</th>
+      <th style="text-align: center">日期</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Rin</td>
+      <td style="text-align: center">2021.5.1</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET
