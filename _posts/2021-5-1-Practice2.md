@@ -1,7 +1,7 @@
 # Web应用软件开发实训-第二次作业-开发一个静态网站
 [Github网址](https://github.com/R136a1423/R136a1423.github.io)
 ## 网站目录结构
-![目录结构](/images/tree.png){:height="50%" width="50%"}
+![目录结构](/images/tree.png){:height="20%" width="20%"}
 ## 网站截图
 ![首页](/images/首页.png){:height="40%" width="40%"}
 ![Blog列表页](/images/blog列表页.png){:height="40%" width="40%"}  
